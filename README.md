@@ -1,5 +1,6 @@
 # download-directory-helper
 [![license](https://img.shields.io/github/license/gluons/download-directory-helper.svg?style=flat-square)](./LICENSE)
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg?style=flat-square)](https://github.com/xojs/xo)
 
 📁 A Firefox add-on to use [download-directory](https://github.com/download-directory/download-directory.github.io) easily.
 
