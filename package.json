@@ -2,6 +2,7 @@
   "name": "download-directory-helper",
   "version": "0.0.1",
   "description": "A Firefox add-on to use download-directory easily.",
+  "private": true,
   "scripts": {
     "prestart": "webpack --mode=development",
     "start": "web-ext run -s ./dist -p default --start-url https://github.com",
