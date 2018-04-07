@@ -3,6 +3,10 @@
 	"description": "A Firefox add-on to use download-directory easily.",
 	"version": "0.0.1",
 	"manifest_version": 2,
+	"icons": {
+		"48": "assets/download-directory-48.png",
+		"96": "assets/download-directory-96.png"
+	},
 	"applications": {
 		"gecko": {
 			"id": "download-directory-helper@gluons.github.io",
