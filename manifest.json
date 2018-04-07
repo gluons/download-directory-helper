@@ -13,6 +13,8 @@
 			"strict_min_version": "26.0"
 		}
 	},
+	"author": "Saran Tanpituckpong",
+	"homepage_url": "https://github.com/gluons/download-directory-helper",
 	"permissions": [
 		"*://github.com/*",
 		"activeTab"
