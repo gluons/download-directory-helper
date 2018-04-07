@@ -1,0 +1,23 @@
+{
+	"name": "Download GitHub Directory",
+	"description": "A Firefox add-on to use download-directory easily.",
+	"version": "0.0.1",
+	"manifest_version": 2,
+	"applications": {
+		"gecko": {
+			"id": "download-directory-helper@gluons.github.io",
+			"strict_min_version": "26.0"
+		}
+	},
+	"permissions": [
+		"*://github.com/*",
+		"activeTab"
+	],
+	"browser_action": {
+		"default_icon": "assets/download-directory.svg",
+		"default_title": "Download GitHub directory"
+	},
+	"background": {
+		"scripts": ["background.js"]
+	}
+}
